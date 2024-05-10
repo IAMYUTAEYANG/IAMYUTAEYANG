@@ -1,6 +1,6 @@
 #👋 Hi, I’m **'IAMYUTAEYANG'**
-  _안녕하세요~! 저는 유태양 입니다._
-  _현재 우송대학교에 재학 중 입니다._
+  ##안녕하세요~! 저는 유태양 입니다._
+  ##현재 우송대학교에 재학 중 입니다._
   
 
 #These are the things I've dealt with.
