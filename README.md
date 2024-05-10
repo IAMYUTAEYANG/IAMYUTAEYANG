@@ -4,7 +4,7 @@
 현재 우송대학교에 재학 중 입니다.<br>
   
 
-#These are the things I've dealt with.
+#These are the things I'm learning.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
