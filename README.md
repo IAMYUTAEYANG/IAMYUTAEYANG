@@ -1,10 +1,11 @@
 #👋 Hi, I’m **'IAMYUTAEYANG'**
 
-안녕하세요~! 저는 유태양 입니다.<br>
+안녕하세요~! 저는 유태양🌞입니다.<br>
 현재 우송대학교에서 컴퓨터 정보보안 학과에 재학 중 입니다.<br>
-  
+요즘은 Python과 AI를 배우고 있습니다.<br>
 
-#These are the things I'm learning.
+
+# These are the things I'm learning.
 이것들을 다루어 본 적 있습니다.
 ### ⭐ Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +23,11 @@
 ### ⭐ PLC
 <img src="https://img.shields.io/badge/siemens-009999?style=for-the-badge&logo=siemens&logoColor=white">
 
-
-### CAD
+### ⭐ CAD
 <img src="https://img.shields.io/badge/kicad-314CB0?style=for-the-badge&logo=kicad&logoColor=white">
 <img src="https://img.shields.io/badge/siemens_Nx-009999?style=for-the-badge&logo=siemens_Nx&logoColor=white">
+
+
+# 2024년 채용 연계형 SW 전문인재교육 인공지능과정
+## 프로젝트
+
