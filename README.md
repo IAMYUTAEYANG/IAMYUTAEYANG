@@ -6,7 +6,6 @@
 
 
 # These are the things I'm learning.
-이것들을 다루어 본 적 있습니다.
 ### ⭐ Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -28,6 +27,6 @@
 <img src="https://img.shields.io/badge/siemens_Nx-009999?style=for-the-badge&logo=siemens_Nx&logoColor=white">
 
 
-# 2024년 채용 연계형 SW 전문인재교육 인공지능과정
+# 🌙 2024년 채용 연계형 SW 전문인재교육 인공지능과정
 ## 프로젝트
 
