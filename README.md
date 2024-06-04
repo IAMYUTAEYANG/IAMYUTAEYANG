@@ -23,5 +23,6 @@
 <img src="https://img.shields.io/badge/siemens-009999?style=for-the-badge&logo=siemens&logoColor=white">
 
 
-
-
+### CAD
+<img src="https://img.shields.io/badge/kicad-314CB0?style=for-the-badge&logo=kicad&logoColor=white">
+<img src="https://img.shields.io/badge/siemens_Nx-009999?style=for-the-badge&logo=siemens_Nx&logoColor=white">
