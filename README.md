@@ -29,5 +29,5 @@
 
 # 🌙 2024년 채용 연계형 SW 전문인재교육 인공지능과정
 ## 프로젝트
-<a href="https://github.com/IAMYUTAEYANG/study_TensorFlow/blob/main/README.md">
+<a href="https://github.com/IAMYUTAEYANG/study_TensorFlow/blob/main/README.md"></a>
 
