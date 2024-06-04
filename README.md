@@ -29,5 +29,5 @@
 
 # 🌙 2024년 채용 연계형 SW 전문인재교육 인공지능과정
 ## 프로젝트
-[AI과정 중 만든 프로젝트](https://github.com/IAMYUTAEYANG?tab=repositories)
+🌟[AI과정 중 만든 프로젝트](https://github.com/IAMYUTAEYANG?tab=repositories)
 
